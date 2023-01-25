@@ -61,7 +61,7 @@
   },
   {
     "company": "Watch Brasil",
-    "status": "pendente"
+    "status": "negado"
   },
   {
     "company": "bhs",
@@ -69,6 +69,10 @@
   },
   {
     "company": "CantuStore",
+    "status": "negado"
+  },
+  {
+    "company": "Seja BRA",
     "status": "negado"
   }
 ]
